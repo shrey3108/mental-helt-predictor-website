@@ -3,3 +3,7 @@ pydantic==2.8.2
 uvicorn==0.30.5
 httptools
 uvloop
+pandas
+numpy
+cikit-learn
+Streamlit
