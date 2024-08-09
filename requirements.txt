@@ -1,0 +1,8 @@
+fastapi==0.112.0
+pydantic==2.8.2
+uvicorn==0.30.5
+pickle
+sqlite3
+httptools
+uvloop
+
