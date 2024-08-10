@@ -5,3 +5,4 @@ httptools
 uvloop
 pandas
 numpy
+scikit-learn
